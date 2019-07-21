@@ -11,6 +11,8 @@ This note is based on a research field big group, which usually publish the pape
 
 
 # The resource of learning coding
-The cloud drive of python learning, 2018
+1. The cloud drive of python learning, 2018
 Address：https://pan.baidu.com/s/1ZgTezra7KFwxILnwPr2hjQ
 Extract passward：3mdd
+2. A machine learning and neural network book, 2019
+Link: https://nndl.github.io/
