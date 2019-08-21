@@ -7,7 +7,7 @@ This note is based on a research field big group, which usually publish the pape
 5. Yinqian Zhang -- http://web.cse.ohio-state.edu/~zhang.834/
 6. David Evans -- http://www.cs.virginia.edu/~evans/
 7. Amir Houmansadr -- https://people.cs.umass.edu/~amir/
-8. 
+8. Ding Wang -- http://wangdingg.weebly.com/
 
 
 # The resource of learning coding
